@@ -1,0 +1,17 @@
+compile
+run
+reload
+run
+run "String"
+run "String" "import X"
+run "String" "X"
+run "String"
+run "String" "X" "Y"
+run "String"
+run "BigInteger"
+run
+assembly
+reload
+assembly
+run
+assembly
