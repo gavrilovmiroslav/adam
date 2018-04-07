@@ -1,5 +1,7 @@
 
-
+import java.math.*;
+import java.io.*;
+import java.util.*;
 public class DriverLucasLehmerSequence {
 	public static void main(String[] args) {
 		int z;
