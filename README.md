@@ -1,5 +1,5 @@
 # adam
-Driver generator for JPF/SPF projects
+Driver generator for JPF/SPF projects. It generates a driver for any method that contains 1) a branch condition in it, and 2) the branch contains at least an expression of a given length.
 
 ## Usage
 
