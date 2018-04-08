@@ -3,7 +3,7 @@ Driver generator for JPF/SPF projects. It generates a driver for any method that
 
 ## Usage
 
-Basically, find a class in OpenJDK, get the raw link to it (example [BigInteger](http://hg.openjdk.java.net/jdk8/jdk8/jdk/raw-file/687fd7c7986d/src/share/classes/java/math/BigInteger.java) here), and save it as a .java.dump file. There are two included with the repository.
+Basically, find a class in OpenJDK, get the raw link to it and save it as a .java.dump file. There are two included with the repository, in the `/bin` directory.
 
 Then, run `adam` with the name of the class and any number of imports that you care about: 
 
