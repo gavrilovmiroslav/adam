@@ -12,7 +12,7 @@ Basically, find a class in OpenJDK, get the raw link to it (example [BigInteger]
 
 Then, run `adam` with the name of the class and any number of imports that you care about: 
 
-`java -jar adam.jar "BigInteger" "java.math.*" "java.io.*" "java.util.*"`
+`adam String -i 'java.io.*,java.util.*' -c '"Hello"' -l 120`
 
 A `drivers` directory will be created if not already there, and a number of driver java files will be made in it. The methods will be chosen so that they are non-trivial. These driver files will call only a single method, making the needed arguments _uninitialized_ local variables:
 
@@ -31,5 +31,16 @@ public class DriverLucasLehmerSequence {
         }
 }
 ```
+## Full Command-line Options
 
-Try running `adam` without any arguments to get the full usage explanation.
+`<driver class name>`
+  The class we're running the driver-generator for.
+        
+`-l, --candidate-length <value>`
+  (Optional) The length of the candidate branch. Defaults to 100.
+  
+`-c, --ctor <value>`
+  (Optional) The constructor arguments sent to the object.
+  
+`-i, --imports <value>`
+  (Optional) Imports needed for driver to work.
