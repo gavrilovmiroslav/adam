@@ -12,20 +12,18 @@ Then, run `adam` with the name of the class and any number of imports that you c
 A `drivers` directory will be created if not already there, and a number of driver java files will be made in it. The methods will be chosen so that they are non-trivial. These driver files will call only a single method, making the needed arguments _uninitialized_ local variables:
 
 ```java
-import java.math.*;
 import java.io.*;
 import java.util.*;
 
-public class DriverLucasLehmerSequence {
+public class DriverString_ToUpperCase {
         public static void main(String[] args) {
-                int z;
-                BigInteger k;
-                BigInteger n;
-                BigInteger test = new BigInteger();
-                test.lucasLehmerSequence(z, k, n);
+                Locale locale;
+                String test = new String("Hello");
+                test.toUpperCase(locale);
         }
 }
 ```
+
 ## Full Command-line Options
 
 `<driver class name>`
