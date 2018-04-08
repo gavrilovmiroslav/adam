@@ -1,11 +1,6 @@
 # adam
 Driver generator for JPF/SPF projects
 
-## TL;DR
-
-```bash
-java -jar adam.jar <Name of Class> [<Import>...]
-```
 ## Usage
 
 Basically, find a class in OpenJDK, get the raw link to it (example [BigInteger](http://hg.openjdk.java.net/jdk8/jdk8/jdk/raw-file/687fd7c7986d/src/share/classes/java/math/BigInteger.java) here), and save it as a .java.dump file. There are two included with the repository.
@@ -26,7 +21,7 @@ public class DriverLucasLehmerSequence {
                 int z;
                 BigInteger k;
                 BigInteger n;
-                BigInteger test;
+                BigInteger test = new BigInteger();
                 test.lucasLehmerSequence(z, k, n);
         }
 }
@@ -44,3 +39,5 @@ public class DriverLucasLehmerSequence {
   
 `-i, --imports <value>`
   (Optional) Imports needed for driver to work.
+
+Try running `adam` without any arguments to get this usage help.
