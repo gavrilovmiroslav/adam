@@ -1,3 +1,4 @@
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scopt_2.12-3.7.0.jar[0m
 [0m[[0m[0minfo[0m] [0m[0mIncluding from cache: javaparser-core-3.5.20.jar[0m
 [0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
@@ -7,13 +8,23 @@
 [0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.github.javaparser/javaparser-core/pom.properties' with strategy 'discard'[0m
 [0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/maven/com.github.javaparser/javaparser-core/pom.xml' with strategy 'discard'[0m
 [0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to 3 files[0m
-[0m[[0m[0minfo[0m] [0m[0mSHA-1: 621d5851eedaad1b8bcaeeb55607a427f884be0c[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: 99d33349c1f3d10aa2f89db5e97bda255db7b4e9[0m
 [0m[[0m[0minfo[0m] [0m[0mPackaging /home/mika/Projects/adam/target/scala-2.12/adam-assembly-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adam$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Adam$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adam.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Adam.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/ArgParser$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/ArgParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/ArgParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/0d489176c14cdef387a7103a01b864bd88f2518a_dir/Config.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/github/javaparser/CommentsInserter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/1b464215fb07b62034bb696b69f6b967f083299c_cd72677bbcb058ff2a6f727db64f358a2172205c_da39a3ee5e6b4b0d3255bfef95601890afd80709/com/github/javaparser/CommentsInserter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	com/github/javaparser/GeneratedJavaParser$1.class[0m
@@ -6096,4 +6107,76 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/284fa239ddbf073e2c79ee3b2ecf649198628cbb_7663f74ef944453c86cc7e6597ed33e9281f6412_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/util/matching/UnanchoredRegex.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	scala/volatile.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/284fa239ddbf073e2c79ee3b2ecf649198628cbb_7663f74ef944453c86cc7e6597ed33e9281f6412_da39a3ee5e6b4b0d3255bfef95601890afd80709/scala/volatile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Arg$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Arg$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Arg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Arg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Check$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Check$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Check.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Check.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Cmd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Cmd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Cmd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Cmd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Head$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Head$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Head.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Head.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Note$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Note$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Note.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Note.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Opt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Opt$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Opt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Opt.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/OptionDef$$anonfun$$lessinit$greater$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/OptionDef$$anonfun$$lessinit$greater$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/OptionDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/OptionDef$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/OptionDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/OptionDef.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/OptionDefKind.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/OptionDefKind.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/OptionParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/OptionParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Read.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Read.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/RenderingMode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/RenderingMode$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/RenderingMode$OneColumn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/RenderingMode$OneColumn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/RenderingMode$TwoColumns$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/RenderingMode$TwoColumns$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/RenderingMode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/RenderingMode.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Validation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Validation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Validation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Validation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Zero$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Zero$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Zero$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Zero$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/Zero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/Zero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/platform$$anonfun$applyArgumentExHandler$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/platform$$anonfun$applyArgumentExHandler$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/platform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/platform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/platform$PlatformReadInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/platform$PlatformReadInstances.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scopt/platform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/streams/$global/assemblyOption/$global/streams/assembly/f9a749262b82609d1253b9e35f5374dfde45c479_e078455e1a65597146f8608dab3247bf1eb92e6e_da39a3ee5e6b4b0d3255bfef95601890afd80709/scopt/platform.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

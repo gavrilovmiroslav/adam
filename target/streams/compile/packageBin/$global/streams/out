@@ -1,9 +1,19 @@
 [0m[[0m[0minfo[0m] [0m[0mPackaging /home/mika/Projects/adam/target/scala-2.12/adam_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	driver.ansi.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/driver.ansi.txt[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/ArgParser$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adam$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Adam$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Adam.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/Adam.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/ArgParser$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArgParser.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/mika/Projects/adam/target/scala-2.12/classes/ArgParser.class[0m
 [0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

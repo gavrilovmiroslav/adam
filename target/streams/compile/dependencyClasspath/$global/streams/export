@@ -1,1 +1,1 @@
-/home/mika/.sbt/boot/scala-2.12.4/lib/scala-library.jar:/home/mika/.ivy2/cache/com.github.javaparser/javaparser-core/jars/javaparser-core-3.5.20.jar
+/home/mika/.sbt/boot/scala-2.12.4/lib/scala-library.jar:/home/mika/.ivy2/cache/com.github.scopt/scopt_2.12/jars/scopt_2.12-3.7.0.jar:/home/mika/.ivy2/cache/com.github.javaparser/javaparser-core/jars/javaparser-core-3.5.20.jar
